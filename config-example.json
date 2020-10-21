@@ -1,0 +1,7 @@
+{
+    "sensors": {
+        "F4:82:00:00:00:00": "Office"
+    },
+    "interval": 60,
+    "collector_url": "https://www.example.com/api/rpi"
+}
